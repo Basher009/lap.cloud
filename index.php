@@ -1,11 +1,11 @@
 <?php
 class main{
     public $name;
-    public $age;
+    private $age= '20';
     public $address;
 
     public function info(){
-     return $this->name = 'bashar';
+     return $this->age;
     }
 }
 
