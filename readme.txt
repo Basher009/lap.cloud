@@ -1,0 +1,12 @@
+1= multiple schools
+2= super admin
+3= admin for each schools
+4= lecturers
+5= students
+6= reciption will add students
+7= lecturers will add students to classes
+8= lecturers will give assignments
+9= students will submit assignments
+10= lecturer will download assignments files
+11= leacturer will give marks for each assignments for each students
+12= display student marks for each subject

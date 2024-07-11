@@ -1,6 +1,6 @@
 <?php
 class main{
-    public $name;
+    protected $name = "sheikh";
     private $age= '20';
     public $address;
 
